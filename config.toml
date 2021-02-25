@@ -5,8 +5,8 @@ theme = "kross-hugo"
 title = "HFG | Levi Landing Page Test"
 [[menu.main]]
 URL = "live"
-name = "live"
-weight = "5"
+name = "Live"
+weight = "6"
 [[menu.main]]
 URL = "about"
 name = "About"
