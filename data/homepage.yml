@@ -36,6 +36,10 @@ experience:
   enable: true
   title: Experience
   item:
+  - logo: ''
+    title: Palesz
+    company: PALESZ
+    duration: "5"
   - logo: images/experience/icon-1.png
     title: Junior UX Designer
     company: WEBEX
