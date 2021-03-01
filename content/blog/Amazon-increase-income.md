@@ -2,7 +2,8 @@
 title: Ezért indított eljárást az Amazon elen.....
 date: 2019-05-12T12:14:34.000+06:00
 image: "/images/herbafill-parna.jpg"
-description: This is meta description.
+description: Mit csinált az amazon
+draft: true
 
 ---
 ### **Ezért indított eljárást az Európai Bizottság a világ legnagyobb online kereskedője, az Amazon ellen**
