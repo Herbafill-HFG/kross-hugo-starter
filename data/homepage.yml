@@ -36,7 +36,7 @@ experience:
   enable: true
   title: Experience
   item:
-  - logo: ''
+  - logo: "/images/portfolio/item-1.png"
     title: Palesz
     company: PALESZ
     duration: Jan 2007 - Feb 2009
